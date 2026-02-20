@@ -1,6 +1,6 @@
 👋 Oi, eu sou o Michael!  
 
-💻 Estudante de Gestão da Tecnologia da Informação na FATEC 3/6
+💻 Estudante de Gestão da Tecnologia da Informação na FATEC 4/6
 
 📚 Explorando o universo do desenvolvimento web, do front-end ao back-end
 
