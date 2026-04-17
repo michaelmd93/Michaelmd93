@@ -1,31 +1,43 @@
-👋 Oi, eu sou o Michael!  
+# 👋 Olá, eu sou o Michael Rocha
 
-💻 Estudante de Gestão da Tecnologia da Informação na FATEC 4/6
+🎓 Estudante de Gestão da Tecnologia da Informação (FATEC - 4º semestre)
 
-📚 Explorando o universo do desenvolvimento web, do front-end ao back-end
+💻 Desenvolvedor focado em JavaScript (Front-end e Back-end com Node.js)
 
-🌍 Buscando ampliar horizontes com novos idiomas e habilidades tecnológicas
+🚀 Atualmente evoluindo em:
 
-🛠️ Projetos em andamento:
+* Lógica de programação
+* Algoritmos
+* Estruturas de dados
+* Resolução de problemas
 
-- Sistema de Gestão para uma ONG – plataforma interna completa com autenticação, dashboards e automações  
-- Sistema de controle fiscal para empresa – upload de NFs, organização por pastas, rastreabilidade e histórico  
-- Experimentos com IA – explorando interações com assistentes virtuais e usabilidade acessível  
+---
 
-📫 Como me encontrar:
+## 🛠️ Tecnologias
 
-📧 E-mail: Michael_rocha94@outlook.com
+* JavaScript
+* Node.js
+* HTML
+* CSS
 
-😄 Um pouco mais sobre mim:
+---
 
-💡 Naturalmente curioso, sempre buscando aprender algo novo a cada dia
+## 📌 Projetos em destaque
 
-🏨 Trabalho como recepcionista em um hotel quatro estrelas, onde aprendo na prática sobre atendimento e organização
+🔹 Sistema de Gestão para ONG
+→ Desenvolvimento de sistema com autenticação, dashboards e automações internas
 
-🧩 Gosto de unir minha experiência com tecnologia para encontrar soluções que tornem processos mais simples e eficientes
+🔹 Experimentos com IA
+→ Testes de integração com assistentes virtuais focados em usabilidade
 
-👨‍💻 Apaixonado por criar sistemas que facilitam o dia a dia, seja no trabalho ou na vida pessoal
+---
 
-- Tenho certeza de que o conhecimento transforma vidas — e quero fazer a diferença em tudo que eu fizer parte.”
+## 🎯 Objetivo
 
+Busco minha primeira oportunidade como desenvolvedor, com foco em evoluir minha base em lógica, algoritmos e construção de soluções reais.
 
+---
+
+## 📫 Contato
+
+📧 Michael_rocha94@hotmail.com
